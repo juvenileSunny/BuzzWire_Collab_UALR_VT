@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - target
+  - wire
+  - ring
+  - body
+  - LoopBoundary
+  - loop
+  - Camera
+  - head
+  - righthand
+  - wire_zone
+  - loop_event
+  - hand_event
+  - EndScene
+  - MainScene
+  - EntryScene
+  - RightHandMainVRScene
+  - LeftHandMainVRScene
+  - LeftLoop
+  - RightLoop
+  - lefthand
+  - RightHandDataLogger
+  - LeftHandDataLogger
+  - rightHandle
+  - leftHandle
+  - rightPlayZone
+  - leftPlayZone
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Interactable
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
