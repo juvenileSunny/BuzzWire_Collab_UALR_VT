@@ -5,4 +5,9 @@ The core of this study revolves around a VR adaptation of the buzz-wire game, a 
 
 ## Buzzwire MainVRScene
 
-Open the scene with name "BuzzWireMainVRScene"
+Open the scene with the name "BuzzWireMainVRScene"
+
+
+## OpenXRToolKit dependency
+
+Project Setup is for Windows only.
