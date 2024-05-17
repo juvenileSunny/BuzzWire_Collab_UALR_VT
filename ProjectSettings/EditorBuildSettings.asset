@@ -15,7 +15,7 @@ EditorBuildSettings:
     path: Assets/Scenes/EndScene.unity
     guid: 4a090a2658888af44baba85781b0106a
   - enabled: 1
-    path: Assets/Scenes/Sampleforactivating.unity
+    path: Assets/Scenes/MainVRScene.unity
     guid: 78d8b923f2acacc4a817239d63c20ddd
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: f630ddd77a544544d98fb26a6ee154f1,
