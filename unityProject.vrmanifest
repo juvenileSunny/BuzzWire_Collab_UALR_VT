@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.experiment_1_vr.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\mkarim1\\Desktop\\My Unity Projects\\Projects\\BuzzWire_Collab_UALR_VT\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "Experiment_1_VR [Testing]"
+        }
+      }
+    }
+  ]
+}
